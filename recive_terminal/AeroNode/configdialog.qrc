@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+   
+    <file>images/synchronization.png</file>
+    <file>images/interface.png</file>
+    <file>images/keyboard.png</file>
+	<file>images/help3.png</file>
+	<file>images/home3.png</file>
+    <file>images/module.png</file>
+    <file>images/next.png</file>
+    <file>images/open.png</file>
+    <file>images/previous.png</file>
+    <file>images/zoomin.png</file>
+    <file>images/zoomout.png</file>
+   
+</qresource>
+</RCC>
